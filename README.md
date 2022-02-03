@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/2470152/152403583-fd2a703e-7b7b-472b-8ed4-326e217ecabc.jpg" height="405" />
+![](https://user-images.githubusercontent.com/2470152/152403583-fd2a703e-7b7b-472b-8ed4-326e217ecabc.jpg)
 
 <!--
 **andychase/andychase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
